@@ -537,6 +537,6 @@ def print_items_that_are_odd_integers(sequence):
             if (sequence[k] % 2 != 0):
                 print(sequence[k], "is at index", k)
 # ----------------------------------------------------------------------
-# Calls  main  to start the ball rolling.
+# Calls  main  to start the ball rolling..
 # ----------------------------------------------------------------------
 main()
